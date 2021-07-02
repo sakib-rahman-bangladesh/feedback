@@ -4,14 +4,14 @@ In this repository, you can find the [official GitHub public feedback discussion
 
 - [GitHub Codespaces (limited public beta)](https://github.com/features/codespaces) - :computer: [Codespaces Feedback](https://github.com/github/feedback/discussions/categories/codespaces-feedback)
 - [GitHub Discussions (public beta)](https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/#discussions) - [:speaking_head: Discussions Feedback](https://github.com/github/feedback/discussions/categories/discussions-feedback)
-- [GitHub Issues](https://github.com/features/issues) - [:octopus: Issues Feedback](https://github.com/features/issues)
+- [GitHub Issues](https://github.com/features/issues) - [:octopus: Issues Feedback](https://github.com/github/feedback/discussions/categories/issues-feedback)
 - [GitHub Mobile](https://github.com/mobile) - [:iphone: Mobile Feedback](https://github.com/github/feedback/discussions/categories/mobile-feedback)
 - [GitHub Sponsors](https://github.com/sponsors) - [:sparkling_heart: Sponsors Feedback](https://github.com/github/feedback/discussions/categories/sponsors-feedback)
 - :octocat: [General Feedback](https://github.com/github/feedback/discussions/categories/general-feedback)
 
 These discussions are where you can share suggestions for how the products should be improved and discuss those improvements with the community, including members of the GitHub product team. Check out [Making suggestions](#making-suggestions) to learn how to provide feedback.
 
-This repository works in conjunction with the [GitHub public product roadmap](https://github.com/github/roadmap), which is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Accordingly, the Issues feature of this repository has been disabled. Discussion categories have been establised for specific features listed above, as well as a general category for other topics. Additional categories may be added in the future. In the meantime, topics outside of the listed categories above, will be transferred into the general category. Please review the [CODE OF CONDUCT](CODE_OF_CONDUCT.md) before participating in discussions.
+This repository works in conjunction with the [GitHub public product roadmap](https://github.com/github/roadmap), which is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Accordingly, the Issues feature of this repository has been disabled. Discussion categories have been established for specific features listed above, as well as a general category for other topics. Additional categories may be added in the future. In the meantime, topics outside of the listed categories above, will be transferred into the general category. Please review the [CODE OF CONDUCT](CODE_OF_CONDUCT.md) before participating in discussions.
 
 ## Making suggestions
 
